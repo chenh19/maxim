@@ -1,7 +1,7 @@
 # Maxim Healthcare assignment template
 *Current version: v0.9.2*
 
-[Click here to see the souce code](https://github.com/chenh19/maxim/blob/master/source_code.md)  
+[Click here to see the source code](https://github.com/chenh19/maxim/blob/master/source_code.md)  
 
 [Click here to download the template](https://github.com/chenh19/maxim/blob/master/Mary%20Template.xlsm?raw=true)
 
