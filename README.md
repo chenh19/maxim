@@ -1,5 +1,5 @@
 # Maxim Healthcare assignment template
-*Current version: v0.9.0*
+*Current version: v0.9.2*
 
 [Click here to see the souce code](https://github.com/chenh19/maxim/blob/master/source_code.md)  
 
