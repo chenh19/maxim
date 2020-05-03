@@ -20,5 +20,5 @@
 ![](FIG/10.png)
 ![](FIG/11.png)
 
-- If you need to see the assignment for each individuals, you may use "Filter" function in excel
+- If you need to see the assignment for each individuals in the exported report, you may use "Filter" function in excel
 ![](FIG/12.png)
