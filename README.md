@@ -15,12 +15,12 @@
 ![](FIG/4.png)
 
 - After importing all data, you may check the previous assignment and assign the new tasks
-![](FIG/6.png)
+![](FIG/13.png)
 ![](FIG/7.png)
 ![](FIG/8.png)
 
 - After assigning and formatting, you may export the new report
-![](FIG/9.png)
+![](FIG/14.png)
 ![](FIG/10.png)
 ![](FIG/11.png)
 
