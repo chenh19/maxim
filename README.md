@@ -2,9 +2,7 @@
 **A macro-enabled Excel templates for [Maxim Healthcare Services](https://www.maximhealthcare.com/) (Columbia, MD).**  
 *Current version: v0.9.2 (**no longer maintained**)*  
 
-[Click here to see the source code](https://github.com/chenh19/maxim/blob/master/source_code.md)  
-
-[Click here to download the template](https://github.com/chenh19/maxim/blob/master/Mary%20Template.xlsm?raw=true)
+[Source code](https://github.com/chenh19/maxim/blob/master/source_code.md), [Download Excel template](https://github.com/chenh19/maxim/blob/master/Mary%20Template.xlsm?raw=true)  
 
 ## How to use
 - Import the previous assignment (to prevent repetitive assignment)
