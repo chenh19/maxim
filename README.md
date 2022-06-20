@@ -1,6 +1,6 @@
 # Maxim Healthcare assignment template
 **A macro-enabled Excel templates for [Maxim Healthcare Services](https://www.maximhealthcare.com/) (Columbia, MD).**  
-*Current version: v0.9.2*
+*Current version: v0.9.2 (no longer maintained)*  
 
 [Click here to see the source code](https://github.com/chenh19/maxim/blob/master/source_code.md)  
 
